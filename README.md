@@ -4,4 +4,6 @@ Veteran Assistance Website
 
 v. 0.0.1
 
-Plans: Restructure with React.js
+Plans: Restructure with React.js/HTML/CSS?JavaScript
+
+############################################################################################################################################
